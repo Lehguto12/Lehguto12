@@ -1,4 +1,4 @@
-Olá! Meu nome é Leandro Augusto, e sou um entusiasta da tecnologia com habilidades em desenvolvimento web. Aqui estão algumas informações sobre mim:
+Olá! Meu nome é Leandro Augusto, e sou um amante de tecnologia com habilidades em desenvolvimento web. Aqui estão algumas informações sobre mim:
 
 Habilidades Técnicas:
 
